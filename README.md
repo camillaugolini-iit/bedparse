@@ -3,7 +3,6 @@
 [![JOSS Status](http://joss.theoj.org/papers/22763a3b37fde13e548e884edd3221fa/status.svg)](http://joss.theoj.org/papers/22763a3b37fde13e548e884edd3221fa)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2578820.svg)](https://doi.org/10.5281/zenodo.2578820)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-
 # Bedparse
 
 ![](docs/bedparse.svg)
@@ -40,7 +39,7 @@ For a detailed explanation of each subcommand and a list of its parameters, use 
 
 ## Documentation
 
-Our documentation is hosted on [Read the Docs](https://bedparse.readthedocs.io/en/devel/).
+Our documentation is hosted on [Read the Docs](https://bedparse.readthedocs.io/en/master/).
 
-We also have a short [tutorial](https://bedparse.readthedocs.io/en/devel/Tutorial.html) to guide you through the basic functions.
+We also have a short [tutorial](https://bedparse.readthedocs.io/en/master/Tutorial.html) to guide you through the basic functions.
 
